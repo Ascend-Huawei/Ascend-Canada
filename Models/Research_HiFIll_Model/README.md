@@ -14,7 +14,7 @@ please cite the paper, if the codes has been used for your research.
 
 demo video to be added
 
-## Implementation Codes are available [Here](https://github.com/Atlas200dk-test/HIFILL)
+## Implementation Codes are available [Here](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 
 ## Acknowledgement
 
