@@ -1,5 +1,5 @@
 # CVPR 2020 Oral Paper on HiFill
-<a href="">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
+<a href="https://arxiv.org/abs/2005.09704">Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting</a>
 
 please cite the paper, if the codes has been used for your research.
 
@@ -12,7 +12,7 @@ please cite the paper, if the codes has been used for your research.
 ![HD](imgs/hd.jpg?raw=true)
 ![compare](imgs/compare.jpg?raw=true)
 
-demo video to be added
+<a href="https://www.youtube.com/watch?v=Q7mX5Bstv7U">Youtube video</a>
 
 ## Implementation Codes are available [Here](https://github.com/Atlas200dk/sample-imageinpainting-HiFill)
 
