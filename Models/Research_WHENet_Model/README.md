@@ -14,7 +14,7 @@ pose estimation. Our network is compact and efficient for mobile devices and app
 * Implementation code can be found [**here**]()
 
 ## Architecture of WHENet
-<img src=readme_imgs/teaser.JPG height="300"/> 
+<img src=readme_imgs/README.JPG height="300"/> 
 
 ## Experiment results
 <img src=readme_imgs/video.gif height="220"/> <img src=readme_imgs/turn.JPG height="220"/> 
