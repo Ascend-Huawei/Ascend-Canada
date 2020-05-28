@@ -19,7 +19,7 @@ pose estimation. Our network is compact and efficient for mobile devices and app
 ## Experiment results
 <img src=readme_imgs/video.gif height="220"/> <img src=readme_imgs/turn.JPG height="220"/> 
 
-Above images belong to the author.
+Above images belong to the author
 
 
 
