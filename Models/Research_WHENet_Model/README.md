@@ -11,7 +11,7 @@ current panoptic dataset for the first time. The resulting Wide Headpose Estimat
 head yaws (hence wide) yet also meets or beats state-of-the-art methods for frontal head
 pose estimation. Our network is compact and efficient for mobile devices and applications.
 * ArXiv paper can be found [**here**](https://arxiv.org/abs/2005.10353).
-* Implementation code can be found [**here**]()
+* Implementation code can be found [**here**](https://github.com/Atlas200dk/sample-headposeestimation-WHENet)
 
 ## Architecture of WHENet
 <img src=readme_imgs/README.JPG height="300"/> 
